@@ -1,4 +1,5 @@
-# corona-api
+# Coronavirus Data API
+https://coronavirus-data.herokuapp.com/api/
 A data api which gives you the latest data in coronavirus cases around the world.
 
 **World Data**
